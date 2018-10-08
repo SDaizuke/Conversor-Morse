@@ -2,6 +2,7 @@
 //////////////******Conversor de texto en codigo morse programado en Java******////////////////////////
 
 //////////////************************CONTACTO********************************/////////////////////////
+
 By Omar Alejandro Pérez Martínez
 contacto daizukealejandro@gmail.com
 
